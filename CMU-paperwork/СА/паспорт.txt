@@ -1,0 +1,31 @@
+                              [color=#B31942]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+                              [color=#0A3161]██▀█▀█▀██[/color][color=#B31942]▀▀▀▀▀▀▀▀[/color]   
+                              [color=#0A3161]██▀        ▀██[/color][color=#B31942]▀▀▀▀▀▀▀▀[/color]        
+                              [color=#0A3161]██▀▄   ▄▀██[/color][color=#B31942]▀▀▀▀▀▀▀▀[/color]                   
+                              [color=#0A3161]▀▀▀▀▀▀▀▀▀[/color][color=#B31942]▀▀▀▀▀▀▀▀[/color]   
+                              [color=#B31942]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+     [bold]------------------------------------------------------------------------------------[/bold][/color]
+
+                          [head=3][bold]Удостоверение личности[/bold]
+                                 [bold]Гражданина[/bold]
+                        [bold]Соединённой Америки[/bold] [/head]
+
+[mono][bold][color=FireBrick]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[/bold][/mono]
+Дата рождения: [form] Пол: [form]  
+
+Место рождения: [form]  Национальность: [form]
+
+Дата выдачи: [form]  
+
+Номер удостоверения - [form] [italic] любые 6 цифр(убрать после написания)[/italic]
+
+Личная подпись: [signature]
+
+Фото:
+[mono] 
+[mono][bold][color=FireBrick]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+
+                [bolditalic][color=darkblue]E Pluribus Unum[/color][/bolditalic]
+
+                   [color=red][bold]|[/bold][/color][color=red][bold]|[/bold][/color] [color=blue]✦[/color] [color=red][bold]|[/bold][/color][color=red][bold]|[/bold][/color]
