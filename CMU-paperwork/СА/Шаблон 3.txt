@@ -1,0 +1,16 @@
+[color=#B31942]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[color=000]██▀█▀█▀██[/color][color=#B31942]▀▀▀▀▀▀▀▀[/color]   [color=#0A3161]█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█[/color]
+[color=000]██▀        ▀██[/color][color=#B31942]▀▀▀▀▀▀▀▀[/color]        [color=#808080]Офис посольства[/color]
+[color=000]██▀▄   ▄▀██[/color][color=#B31942]▀▀▀▀▀▀▀▀[/color]       [head=3]Соединённой Америки[/head]
+[color=000]▀▀▀▀▀▀▀▀▀[/color][color=#B31942]▀▀▀▀▀▀▀▀[/color]   [color=#0A3161]█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█[/color]
+[color=#B31942]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[head=2]════════════════════════[/head]
+[bold]Адресат:[/bold] [form]
+[bold]Адресант:[/bold] [signature]
+[head=2]═════╣[form]╠═════[/head]
+[italic]Уважаемый [form],
+[form]
+[/italic]
+[head=2]═════════════════════════[/head]
+Подписано,
+[color=#A10000][italic][signature][/italic]
