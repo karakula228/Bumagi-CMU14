@@ -1,0 +1,36 @@
+                       [bold]КОРПОРАЦИЯ ВЕЙЛАНД-ЮТАНИ[/bold]
+[color=#FFFFFF]░░░░░░░░[/color][color=#d16d1f]█[/color][color=#eb7a23]▌[color=#FFFFFF]░░░░[/color]▄███▌[color=#25b266]▌▄[/color][color=#1c8a4e]█▀[/color]▄██████████[/color]
+[color=#FFFFFF]░░░░░░░░[/color][color=#d16d1f]█[/color][color=#eb7a23]▌[color=#FFFFFF]░░[/color]▄██[color=#d16d1f]██[/color]█▌[color=#1c8a4e]█▀[/color]▄██[color=#d16d1f]█▀[/color][/color]
+[color=#FFFFFF]░░░░░░░░[/color][color=#d16d1f]█[/color][color=#eb7a23]▌▄██[color=#d16d1f]█▀[/color][color=#1c8a4e]▄[/color][color=#d16d1f]▐[/color]█▌▄██[color=#d16d1f]█▀[/color][color=#EEEE]▄[/color]▐████████[/color]
+[color=#FFFFFF]░░░░░░░░[/color][color=#d16d1f]█[/color][color=#eb7a23]██[color=#d16d1f]█▀[/color][color=#25b266]▄█[/color][color=#1c8a4e]█[/color][color=#d16d1f]▐[/color]███[color=#d16d1f]█▀[/color][color=#EEEEEE]▄█[/color][color=#DDDDDD]█[/color][/color]
+[color=#FFFFFF]░░░░░░░░[/color][color=#d16d1f]██▀[/color][color=#25b266]▄█[/color][color=#1c8a4e]█▀[/color][color=#FFFFFF]░[/color][color=#d16d1f]▐██▀[/color][color=#EEEEEE]▄█[/color][color=#DDDDDD]█▀▐[/color][color=#eb7a23]▐████████[/color]
+                              [bolditalic]"СТРОЯ ЛУЧШИЕ МИРЫ"[/bolditalic]
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+
+                         [bolditalic]Договор краткосрочного займа[/bolditalic]
+
+
+[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+ [italic]Корпоративный офис Вейланд-Ютани, в лице [signature], действующего на основании доверенности №6328249, именуемый в дальнейшем "Кредитор", с одной стороны, и [signature], представляющий интересы [form], именуемый в дальнейшем "Заемщик", с другой стороны, заключили настоящий Договор о нижеследующем:
+[/italic]
+[bold]УСЛОВИЯ ДОГОВОРА:[/bold] 
+ [italic]Кредитор обязуется предоставить Заемщику сумму в размере [form] долларов, а Заемщик обязуется вернуть Кредитору сумму займа в срок до "[form]".[/italic]
+
+[bold]Цель предоставления займа:[/bold] 
+[italic][form].[/italic]
+
+[bold]ОТВЕТСТВЕННОСТЬ СТОРОН:[/bold]
+[italic] В случае нарушения Заемщиком срока возврата займа, Кредитор вправе потребовать от Заемщика уплаты неустойки в размере 20% от суммы просроченного обязательства за каждый день просрочки.
+ Все споры, не урегулированные настоящим договором, подлежат рассмотрению в судебном порядке Арбитром.
+[/italic]
+[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
+	
+[bold]Кредитор,[/bold]
+[color=#1b67a5][italic][signature][/italic][/color] 
+[bolditalic]Корпоративный связной. [/bolditalic]|[bold][/bold] Актива [bolditalic]"[form]"[/bolditalic]
+
+[bold]Заёмщик,[/bold]
+[color=#1b67a5][italic][signature][/italic][/color] 
+[bolditalic][form] [/bolditalic]|[bold][/bold] [bolditalic]"[form]"[/bolditalic]
+[italic][bold][color=#134975]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
